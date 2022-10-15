@@ -1,0 +1,29 @@
+{
+  "name": "week003",
+  "version": "1.0.0",
+  "description": "Javascript Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishatmustapha31/JavaScript-Week3.git"
+  },
+  "keywords": [
+    "Javascript",
+    "html",
+    "css",
+    "programming"
+  ],
+  "author": "Aishat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishatmustapha31/JavaScript-Week3/issues"
+  },
+  "homepage": "https://github.com/aishatmustapha31/JavaScript-Week3#readme",
+  "dependencies": {
+    "@js-joda/core": "^5.4.1",
+    "bootstrap": "^5.2.2"
+  }
+}

@@ -78,6 +78,11 @@ if( day1.valueOf() === day2.valueOf()){
 }
 
 
+
+
+
+
+
 function getFormatedStringFromDays(numberOfDays) {
     var years = Math.floor(numberOfDays / 365);
     var months = Math.floor(numberOfDays % 365 / 30);
